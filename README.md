@@ -1,28 +1,12 @@
 # Potato Common Scab
-<p align="center">
-  <img src="ScabLesions.png"
-       alt="Potato crop field"
-       width="100%">
-</p>
+![Potato Common Scab Lesions](https://raw.githubusercontent.com/Spudhem/PCS/main/images/ScabLesions.png)
 
-<p align="center">
-  <img
-    src="ScabLesions.png"
-    alt="Potato crop field"
-    width="100%">
-</p>
+# Potato Common Scab
+### आलू का कॉमन स्कैब रोग
 
-<h1 align="center">
-  Potato Common Scab
-</h1>
+**Farmer Awareness and Disease Management**
 
-<h2 align="center">
-  आलू का कॉमन स्कैब रोग
-</h2>
-
-<p align="center">
-  <em>Farmer Awareness and Disease Management</em>
-</p>
+---
 
 ---
 Potato common scab is a disease that affects the skin of potato tubers, producing rough, corky lesions that may be superficial, raised or deeply pitted. It is associated with pathogenic bacteria belonging to the genus *Streptomyces*.
