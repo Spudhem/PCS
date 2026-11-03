@@ -1,5 +1,9 @@
 # Potato Common Scab
-![Potato Common Scab Lesions](ScabLesions.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Spudhem/PCS/main/ScabLesions.png"
+       alt="Potato Common Scab Lesions"
+       width="100%">
+</div>
 
 # Potato Common Scab
 ### आलू का कॉमन स्कैब रोग
