@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ScabLesions.png" width="140"/>
+  <img src="ScabLesions.png" width="1400"/>
 </p>
 
 <h1 align="center">Potato Common Scab</h1>
