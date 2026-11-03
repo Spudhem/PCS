@@ -4,8 +4,8 @@ Potato common scab is a disease that affects the skin of potato tubers, producin
 
 Although common scab often has a greater effect on tuber appearance and market quality than on yield, severe symptoms can reduce the commercial value of potatoes.
 
-[01 - Introduction to Common Scab](Module1)
-[02 - Causal Organism and Disease Development](Module2)
+1. [01 - Introduction to Common Scab](Module1)
+2. [02 - Causal Organism and Disease Development](Module2)
 [03 - Identification of Common Scab Symptoms](Module3)
 [04 - Factors Favouring Disease Development](Module4)
 [05 - Disease Management Practices](Module5)
