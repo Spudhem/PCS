@@ -1,7 +1,7 @@
 # Potato Common Scab
 <p align="center">
   <img src="ScabLesions.png"
-       alt="Potato field"
+       alt="Potato crop field"
        width="100%">
 </p>
 
