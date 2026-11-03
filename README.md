@@ -1,4 +1,9 @@
 # Potato Common Scab
+<p align="center">
+  <img src="ScabLesions.png"
+       alt="Potato field"
+       width="100%">
+</p>
 
 Potato common scab is a disease that affects the skin of potato tubers, producing rough, corky lesions that may be superficial, raised or deeply pitted. It is associated with pathogenic bacteria belonging to the genus *Streptomyces*.
 
