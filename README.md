@@ -6,9 +6,9 @@ Although common scab often has a greater effect on tuber appearance and market q
 
 1. [01 - Introduction to Common Scab](Module1)
 2. [02 - Causal Organism and Disease Development](Module2)
-[03 - Identification of Common Scab Symptoms](Module3)
-[04 - Factors Favouring Disease Development](Module4)
-[05 - Disease Management Practices](Module5)
-[06 - Farmer Advisory and Important Recommendations](Module6)
+3. [03 - Identification of Common Scab Symptoms](Module3)
+4. [04 - Factors Favouring Disease Development](Module4)
+5. [05 - Disease Management Practices](Module5)
+6. [06 - Farmer Advisory and Important Recommendations](Module6)
 
 
