@@ -2,7 +2,7 @@
   <img src="ScabLesions.png" width="140"/>
 </p>
 
-<h1 align="center">CPRI e-Lesson Series on Potato Bioinformatics</h1>
+<h1 align="center">Potato Common Scab</h1>
 
 <p align="center">
   <b>Hemant B Kardile (PhD)</b><br>
